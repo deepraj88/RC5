@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="rc5.c" path="/home/dss545/small_projects/RC5/rc5.c"/>
+  </source>
+  <testbench>
+    <originFiles name="rc5_test.c" path="/home/dss545/small_projects/RC5/rc5_test.c"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
